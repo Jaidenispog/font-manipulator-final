@@ -1,0 +1,21 @@
+body{
+
+    background-color: aqua;
+}
+
+
+
+.footer {
+
+
+    position: fixed;
+    color: rgb(35, 176, 219);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rebeccapurple;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 4px 4px rgb(0, 0, 0);
+    
+}
